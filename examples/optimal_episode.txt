@@ -1,0 +1,20 @@
+Optimal Episode:
+Trajectory: (36, 0, -1, 24, 1, -1, 25, 1, -1, 26, 1, -1, 27, 1, -1, 28, 1, -1, 29, 1, -1, 30, 1, -1, 31, 1, -1, 32, 1, -1, 33, 1, -1, 34, 1, -1, 35, 2, -1)
+
+Step 1: s=36, a=0 (UP), r=-1
+Step 2: s=24, a=1 (RIGHT), r=-1
+Step 3: s=25, a=1 (RIGHT), r=-1
+Step 4: s=26, a=1 (RIGHT), r=-1
+Step 5: s=27, a=1 (RIGHT), r=-1
+Step 6: s=28, a=1 (RIGHT), r=-1
+Step 7: s=29, a=1 (RIGHT), r=-1
+Step 8: s=30, a=1 (RIGHT), r=-1
+Step 9: s=31, a=1 (RIGHT), r=-1
+Step 10: s=32, a=1 (RIGHT), r=-1
+Step 11: s=33, a=1 (RIGHT), r=-1
+Step 12: s=34, a=1 (RIGHT), r=-1
+Step 13: s=35, a=2 (DOWN), r=-1
+
+Total steps: 13
+Total return (discounted): -11.55
+Goal reached: True
